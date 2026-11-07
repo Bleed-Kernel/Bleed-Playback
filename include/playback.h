@@ -74,7 +74,7 @@ int  lcd_clock_hit(ui_rect_t r, int x, int y);
 
 // library.c
 
-#define CONFIG_DIR      "/initrd/player"
+#define CONFIG_DIR      "/usr/share/playback"
 #define CONFIG_PATH     CONFIG_DIR "/config.ini"
 #define LIST_NAME_MAX   64
 #define RECENT_MAX      25
